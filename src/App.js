@@ -3,6 +3,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 import Navbar from './components/layout/Navbar';
 import Index from './components/layout/Index';
+import Lyrics from './components/tracks/Lyrics';
 import { Container } from 'react-bootstrap';
 import { Provider } from './context';
 
@@ -15,6 +16,7 @@ function App() {
           <Container>
             <Switch>
               <Route exact path="/" component={Index}/>
+              <Route exact path="/lyrics/track/:id" component={Lyrics}/>
             </Switch>
           </Container>
         </React.Fragment>
