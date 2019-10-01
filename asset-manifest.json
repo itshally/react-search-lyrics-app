@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-search-lyrics-app/static/css/main.f05016c4.chunk.css",
+    "main.js": "/react-search-lyrics-app/static/js/main.47702eb3.chunk.js",
+    "main.js.map": "/react-search-lyrics-app/static/js/main.47702eb3.chunk.js.map",
+    "runtime-main.js": "/react-search-lyrics-app/static/js/runtime-main.2486c338.js",
+    "runtime-main.js.map": "/react-search-lyrics-app/static/js/runtime-main.2486c338.js.map",
+    "static/js/2.e021c6dd.chunk.js": "/react-search-lyrics-app/static/js/2.e021c6dd.chunk.js",
+    "static/js/2.e021c6dd.chunk.js.map": "/react-search-lyrics-app/static/js/2.e021c6dd.chunk.js.map",
+    "index.html": "/react-search-lyrics-app/index.html",
+    "precache-manifest.9c269687b95f7850667e1d43b79f6836.js": "/react-search-lyrics-app/precache-manifest.9c269687b95f7850667e1d43b79f6836.js",
+    "service-worker.js": "/react-search-lyrics-app/service-worker.js",
+    "static/css/main.f05016c4.chunk.css.map": "/react-search-lyrics-app/static/css/main.f05016c4.chunk.css.map"
+  }
+}
