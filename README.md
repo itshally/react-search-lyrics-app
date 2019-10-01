@@ -1,3 +1,14 @@
+# Basic React Todo List
+
+Creating a Lyric Search App With React & Context API. 
+
+Here is a [Live Demo](https://itshally.github.io/react-search-lyrics-app) to view my repository.
+
+But, you can watch the entire playlist here at [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI).
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
