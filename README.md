@@ -1,4 +1,4 @@
-# Basic React Todo List
+# React Search Lyrics App
 
 Creating a Lyric Search App With React & Context API. 
 
