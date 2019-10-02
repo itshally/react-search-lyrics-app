@@ -1,22 +1,40 @@
-.App {
+html, body{
+  font-family: 'Lato', sans-serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.navbar-dark, .bg-dark{
+  background-color: #ff77aa !important;
+}
+.display-4{
+  font-family: 'Dancing Script', cursive;
+
+}
+.btn-primary, .btn-dark{
+  background-color: #64a1f4;
+  border-color: transparent;
+  margin: 0.5rem 0;
+}
+.btn-primary:hover, .btn-dark:hover{
+  background-color: #3b7dd8;
+  border-color: transparent;
+}
+.card-body h5{
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
+i{
+  margin: 5px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.footer-container{
+  margin: 0;
+  padding: 2.5rem;
+  text-align: center;
 }
-
-.App-link {
-  color: #09d3ac;
+.footer-container a:hover{
+  text-decoration: none;
 }
